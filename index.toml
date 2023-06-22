@@ -6,7 +6,7 @@ hash = "59f80902b56ea54d15d44e77e569bc6eb56275bd0b5f6cdb81b387fc2f0c94d0"
 
 [[files]]
 file = "README.md"
-hash = "4b99413afba602c7821b0aa963f0c3f89d3bc441b843732d2aa222a4435ecb5f"
+hash = "61f3f9c02a0d3dc18e165dab2e39dbfd2dc178a5da2661647d2213986fd62e89"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -71,4 +71,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "1f2ec0bcd3a5e8e5a4070b141654039f726812ae0a76acf2b6b5e309da24dc0e"
 metafile = true
