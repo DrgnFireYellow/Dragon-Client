@@ -1,0 +1,13 @@
+name = "Dragon Client"
+author = "DrgnFireYellow"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3e7b7a570c306e7275fc2cb39182297379ba7c98ddb349edfdbf60e14af38937"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20"
