@@ -1,1 +1,1 @@
-# Dragon-Client
+![Dragon Client Logo](DragonClientLogo.png)
