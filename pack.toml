@@ -1,12 +1,12 @@
 name = "Dragon Client"
 author = "DrgnFireYellow"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9e1ae2a7ea9e4698cae79efb5d4fadfed631bb59cc88657c0bed5d84c2e52504"
+hash = "7ee795ce62243e5d8ee9c866af0408fd9e179e26e93311357da0096492ee5098"
 
 [versions]
 fabric = "0.14.21"
