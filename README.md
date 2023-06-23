@@ -8,6 +8,7 @@ Better Third Person
 Continuity
 Cosmetica
 Iris Shaders
+Indium
 Jade
 Mod Menu
 Sodium
